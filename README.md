@@ -1,91 +1,56 @@
-<h1 align="center">Hi, I'm code-pilgrimz 👋</h1>
+## Hi, I'm code-pilgrimz
 
-<p align="center">
-  Full-stack &amp; backend developer — I build APIs, web apps, data pipelines, and the cloud-native infrastructure underneath them.
-</p>
+Senior Software Engineer. I spend most of my time on backend systems and the
+platforms around them — the kind of work that's invisible when it's done right:
+APIs that stay up, pipelines that run at 3am without anyone watching, and infra
+you don't have to think about.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=code-pilgrimz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+I started taking freelance work while at university back in 2016, went full-time
+in 2019, and these days I mostly build distributed backends, data platforms, and
+the occasional internal tool nobody asked for but everybody ends up using.
 
----
+### What I usually reach for
 
-### 🧰 Tech I work with
+- **Backend** — Python (FastAPI, Django, Flask), Java (Spring Boot), .NET, Node
+- **Data** — pandas, NumPy, PostgreSQL, MySQL
+- **Infra** — Docker, Kubernetes, Terraform, AWS, GitHub Actions
 
-**Languages**
+I'm comfortable across the stack (React/TypeScript on the front when needed), but
+the backend and the wiring underneath is where I'm happiest.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+### A few things I've built
 
-**Backend &amp; frameworks**
+- **[saas-platform](https://github.com/code-pilgrimz/saas-platform)** — multi-tenant SaaS: Spring Boot core, FastAPI billing, React app, all on k8s
+- **[ml-platform](https://github.com/code-pilgrimz/ml-platform)** — model serving + training pipeline + a dashboard to watch it
+- **[data-platform](https://github.com/code-pilgrimz/data-platform)** — self-serve data pipelines with a catalog API and UI
+- **[web-platform](https://github.com/code-pilgrimz/web-platform)** — polyglot customer platform (React, Node, .NET) behind one gateway
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+I also help maintain a few org repos under
+[northbeam-labs](https://github.com/northbeam-labs),
+[hexforge-oss](https://github.com/hexforge-oss), and
+[data-lattice](https://github.com/data-lattice).
 
-**Data**
+### Stack
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-**Infra &amp; DevOps**
+<br/>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=code-pilgrimz&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight" alt="stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-pilgrimz&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="top langs" />
 
----
+<br/>
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=code-pilgrimz&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-pilgrimz&layout=compact&hide_border=true&langs_count=10&theme=tokyonight" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=code-pilgrimz&hide_border=true&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=code-pilgrimz&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
-</p>
-
----
-
-### 🚀 What I build
-
-- **Backend services & APIs** — FastAPI, Django, Spring Boot, .NET (auth, billing, orders, payments)
-- **Full-stack platforms** — React/TypeScript frontends over polyglot backends, wired with Docker Compose
-- **Data & ML** — pandas/NumPy pipelines, feature stores, model-serving APIs
-- **Cloud-native infra** — Docker, Kubernetes, Terraform, AWS, GitHub Actions CI/CD
-
-### 🏢 Organizations
-
-- [**northbeam-labs**](https://github.com/northbeam-labs) — product / SaaS platform work
-- [**hexforge-oss**](https://github.com/hexforge-oss) — open-source developer tooling
-- [**data-lattice**](https://github.com/data-lattice) — data & ML platforms
-
----
-
-<p align="center"><i>Always learning, always shipping.</i></p>
-
-<!-- updated stack -->
-<!-- add stats cards -->
-<!-- add orgs section -->
-<!-- refresh -->
+> Clean interfaces, boring technology, and code that's easy to delete.
