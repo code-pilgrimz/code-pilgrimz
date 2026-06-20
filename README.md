@@ -1,16 +1,16 @@
 ## 🧑‍💻 Tech Stack I Work With
 
-💻 **Languages:** Python, TypeScript, JavaScript, Java, C#, C++, SQL, Bash
+💻 **Languages:** Python, TypeScript, JavaScript, Java, PHP, C#, C++, SQL, Bash
 
-🛠️ **Back-End:** FastAPI, Django, Flask, Node.js, Express, Spring Boot, .NET, REST APIs, GraphQL
+🛠️ **Back-End:** FastAPI, Django, Flask, Node.js, Express, Spring Boot, Symfony, Laravel, .NET, REST APIs, GraphQL
 
 🎨 **Front-End:** React, TypeScript, JavaScript
 
-🗄️ **Data & Databases:** PostgreSQL, MySQL, SQLite, SQLAlchemy, pandas, NumPy
+🗄️ **Data & Databases:** PostgreSQL, MySQL, SQLite, SQLAlchemy, Doctrine, pandas, NumPy
 
 ☁️ **DevOps & Cloud:** Docker, Kubernetes, Terraform, Helm, AWS, GitHub Actions, Linux
 
-🧪 **Testing:** pytest, unittest, Jest, JUnit, xUnit
+🧪 **Testing:** pytest, unittest, Jest, PHPUnit, JUnit, xUnit
 
 ---
 
@@ -52,6 +52,12 @@
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="46" height="46" alt="Bash"/><br>Bash</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46" height="46" alt="Git"/><br>Git</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="46" height="46" alt="GitHub Actions"/><br>Actions</td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="46" height="46" alt="PHP"/><br>PHP</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="46" height="46" alt="Symfony"/><br>Symfony</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="46" height="46" alt="Laravel"/><br>Laravel</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="46" height="46" alt="Composer"/><br>Composer</td>
   </tr>
 </table>
 
