@@ -1,12 +1,3 @@
-<h1 align="center">Hi, I'm code-pilgrimz 👋</h1>
-
-<p align="center">
-  <b>Senior Software Engineer</b> — full-stack, but happiest in the backend and the infra underneath.<br/>
-  I design, build, and scale secure, high-performance services and the platforms around them.
-</p>
-
----
-
 ## 🧑‍💻 Tech Stack I Work With
 
 💻 **Languages:** Python, TypeScript, JavaScript, Java, C#, C++, SQL, Bash
