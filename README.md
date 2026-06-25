@@ -55,7 +55,3 @@
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46" height="46" alt="Git"/><br>Git</td>
   </tr>
 </table>
-
----
-
-<p align="center"><i>Architectural design and clean code over syntax — auditing for bottlenecks, thread-safety, and DB inefficiencies before they hit production.</i></p>
