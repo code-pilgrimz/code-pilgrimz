@@ -1,12 +1,3 @@
-<h1 align="center">Hi, I'm John Fred Tabucan 👋</h1>
-
-<p align="center">
-  <b>Senior Software Engineer</b> — I make backend systems reliable, secure, and fast.<br/>
-  Most of my time is in Python, TypeScript, and Java; I reach for C++ and Rust when performance and memory matter.
-</p>
-
----
-
 ## 🧑‍💻 Tech Stack I Work With
 
 💻 **Languages:** Python, TypeScript, JavaScript, Java, C# / .NET, C++, Rust, Go, SQL, Bash
